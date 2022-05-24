@@ -7,7 +7,6 @@ google-auth-oauthlib
 js2py
 lk21
 lxml
-megasdkrestclient
 psutil
 pybase64
 https://github.com/pyrogram/pyrogram/archive/29701a3a55b00b127c0588791c8dbc4d092bc8a6.zip
